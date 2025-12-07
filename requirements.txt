@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+yt-dlp
+moviepy
+gtts
+pillow
+requests
+numpy
